@@ -54,4 +54,4 @@ if listx == "5" :
 				print("[-] Password found :" +line)
 			elif line != hash :
 				print("Text not found")
-				
+#created by achnouri		
